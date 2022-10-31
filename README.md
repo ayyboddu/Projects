@@ -1,7 +1,8 @@
 # Projects
 You can find all my personal projects here!
 
-## Machine Learning Projects
+<https://github.com/ayyboddu/movie-rec>(Movie Recommendation System): A recommendation system that utilizes collaborative filtering and sentiment analysis to recommend films.
+
 Supervised and Unsupervised Learning: Categorizing Spotify Playlists
 
-Movie Recommendation System
+Generate Color Palette
