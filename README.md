@@ -1,9 +1,9 @@
 # Projects
 You can find all my personal projects here!
 
-[Movie Recommendation System](https://github.com/ayyboddu/Movie-Recommender)(In Progress): A recommendation system that utilizes **collaborative filtering** and sentiment analysis to recommend films.
+[Movie Recommendation System](https://github.com/ayyboddu/Movie-Recommender) (In Progress): A recommendation system that utilizes **collaborative filtering** and sentiment analysis to recommend films.
 
-[Movie Success Prediction System](https://github.com/ayyboddu/Movie-Sucess-Prediction)(In Progress): A prediction model that predicts movie revenue with an interactive front end hosted on **Tableau**
+[Movie Success Prediction System](https://github.com/ayyboddu/Movie-Sucess-Prediction) (In Progress): A prediction model that predicts movie revenue with an interactive front end hosted on **Tableau**
 
 [Book Recommendation System](https://github.com/ayyboddu/Book-Recommender): A recommendation system that utilizes **collaborative filtering**
 
